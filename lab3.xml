@@ -3,21 +3,21 @@
    <table id="stud1">
       <number>1</number>
       <student>Иван</student>
-      <grade>5</grade>
+      <grade>Хорошо</grade>
    </table>
    <table id="stud2">
       <number>2</number>
       <student>Виталий</student>
-      <grade>4</grade>
+      <grade>Отлично</grade>
    </table>
    <table id="stud3">
       <number>3</number>
       <student>Андрей</student>
-      <grade>2</grade>
+      <grade>Неудовлетворительно</grade>
    </table>
    <table id="stud4">
       <number>4</number>
       <student>Сергей</student>
-      <grade>3</grade>
+      <grade>Удовлетворительно</grade>
    </table>
 </catalog>
